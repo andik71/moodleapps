@@ -1,0 +1,17 @@
+project/
+│
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── apihandler/
+│   └── api.php
+├── moodlecontroller/
+│   └── MoodleController.php
+├── views/
+│   ├── getuserall.php
+│   ├── getcourseall.php
+│   ├── getcategoryall.php
+│   ├── createuser.php
+│   └── createcourse.php
+└── index.php
